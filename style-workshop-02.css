@@ -1,7 +1,9 @@
-* {
+body {
   margin: 48px;
   background-color: hsl(220, 14%, 96%);
+  font-family: Georgia, 'Times New Roman', serif;
 }
+
 .quote {
   max-width: 560px;
   margin: 0 auto;
